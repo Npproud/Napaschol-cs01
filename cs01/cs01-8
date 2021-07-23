@@ -1,0 +1,5 @@
+x = input()
+if x == "A":
+    print("Is A")
+else:
+    print("Not A")
